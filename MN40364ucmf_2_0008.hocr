@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN40364ucmf_2_0008.png"; bbox 0 0 2359 3352; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 189 170 1180 519">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 189 24 1180 519">
+     <span class='ocr_line' id='line_1_1' title="bbox 189 170 1180 519; baseline -0.008 -60"><span class='ocrx_word' id='word_1_1' title='bbox 189 175 744 519; x_wconf 73' lang='lat' dir='ltr'>Haucl(‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 809 170 1180 458; x_wconf 81' lang='lat' dir='ltr'>Chri</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 191 1091 1153 1839">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 191 1091 1153 1839">
+     <span class='ocr_line' id='line_1_2' title="bbox 194 1091 1153 1382; baseline -0.006 0"><span class='ocrx_word' id='word_1_3' title='bbox 194 1091 960 1382; x_wconf 79' lang='lat' dir='ltr'>Christiani</span> <span class='ocrx_word' id='word_1_4' title='bbox 1020 1098 1153 1376; x_wconf 89' lang='lat' dir='ltr'>G</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 191 1553 857 1839; baseline 0.005 -5"><span class='ocrx_word' id='word_1_5' title='bbox 191 1553 857 1839; x_wconf 82' lang='lat' dir='ltr'>Haukii...</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 191 2470 1150 2833">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 191 2470 1150 2833">
+     <span class='ocr_line' id='line_1_4' title="bbox 191 2470 1150 2833; baseline 0.008 -86"><span class='ocrx_word' id='word_1_6' title='bbox 191 2470 806 2833; x_wconf 77' lang='lat' dir='ltr'>Lipsiae,</span> <span class='ocrx_word' id='word_1_7' title='bbox 887 2478 1150 2755; x_wconf 81' lang='lat'>177</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1187 3352">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1187 3352">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1187 3352; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1187 3352; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
